@@ -14,7 +14,7 @@ body {
 
 /* Hero Section */
 .hero {
-  background: url('https://via.placeholder.com/1200x600') center/cover no-repeat;
+  background: url('noko-hero.jpg') center/cover no-repeat;
   height: 80vh;
   position: relative;
   color: white;
